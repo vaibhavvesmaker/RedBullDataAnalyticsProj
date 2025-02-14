@@ -9,7 +9,7 @@ Formula One isn’t just about speed—it’s a thrilling mix of **strategy, pre
 The goal of this project is to **analyze and visualize Formula One race data**, uncovering key insights into:  
 ✅ **Team Performance Over Decades**  
 ✅ **Impact of Starting Positions on Race Wins**  
-✅ **Championship Trends & Historical Comparisons**  
+✅ **Championship Trends & Historical Comparisons**   
 ✅ **Race Wins by Circuits & Global Influence**  
 
 Using **interactive dashboards and data storytelling**, this project provides an in-depth look at the patterns that define Formula One history.  
